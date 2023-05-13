@@ -1,2 +1,2 @@
-# snippets-api
+# snippets-server
 Web server for snippets management desktop app made with Node.js, TypeScript, Hapi, and MongoDB
